@@ -1,0 +1,19 @@
+# Variables de entorno y credenciales (¡CRÍTICO!)
+.env
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos compilados y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuraciones de VS Code
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
